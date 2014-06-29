@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://yuanfengqi.github.io
+title: 袁凤麒的网志
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: yuanfengqi
 simple_search: https://www.google.com/search
 description:
 
